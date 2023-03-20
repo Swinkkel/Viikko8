@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Viikko8</string>
+    <string name="enter_number1_hint">Enter number 1</string>
+    <string name="enter_number2_hint">Enter number 2</string>
+    <string name="plus_button_text">+</string>
+    <string name="minus_button_text">-</string>
+    <string name="multiply_button_text">X</string>
+    <string name="divide_button_text">/</string>
+</resources>
